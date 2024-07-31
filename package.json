@@ -1,0 +1,16 @@
+{
+  "name": "eslint-plugin-antfu",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@eslint/js": "^9",
+    "eslint-plugin-antfu": "^2"
+  },
+  "devDependencies": {
+    "@types/eslint__js": "^8",
+    "@types/node": "^22",
+    "typescript": "^5"
+  },
+  "packageManager": "pnpm@9.6.0"
+}
